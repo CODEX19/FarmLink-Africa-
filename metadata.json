@@ -1,0 +1,8 @@
+{
+  "name": "FarmLink Africa",
+  "description": "A modern, futuristic agricultural platform connecting African farmers to global markets and logistics, featuring AI-driven insights.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
